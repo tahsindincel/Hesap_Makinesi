@@ -1,0 +1,7 @@
+D:\Visual Studio Proje\HesapMakinesiKonsol2\HesapMakinesiKonsol2\bin\Debug\HesapMakinesiKonsol2.exe.config
+D:\Visual Studio Proje\HesapMakinesiKonsol2\HesapMakinesiKonsol2\bin\Debug\HesapMakinesiKonsol2.exe
+D:\Visual Studio Proje\HesapMakinesiKonsol2\HesapMakinesiKonsol2\bin\Debug\HesapMakinesiKonsol2.pdb
+D:\Visual Studio Proje\HesapMakinesiKonsol2\HesapMakinesiKonsol2\obj\Debug\HesapMakinesiKonsol2.csproj.AssemblyReference.cache
+D:\Visual Studio Proje\HesapMakinesiKonsol2\HesapMakinesiKonsol2\obj\Debug\HesapMakinesiKonsol2.csproj.CoreCompileInputs.cache
+D:\Visual Studio Proje\HesapMakinesiKonsol2\HesapMakinesiKonsol2\obj\Debug\HesapMakinesiKonsol2.exe
+D:\Visual Studio Proje\HesapMakinesiKonsol2\HesapMakinesiKonsol2\obj\Debug\HesapMakinesiKonsol2.pdb
