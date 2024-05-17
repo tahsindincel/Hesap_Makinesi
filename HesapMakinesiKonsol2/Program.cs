@@ -21,26 +21,27 @@ namespace HesapMakinesiKonsol2
             Console.Write("Sonuç:= \nToplama: + \nÇıkarma: - \nÇarpma: * \nBölme: / \nÇıkış:E \n İşlem Seçin:");
             char chr2 = Convert.ToChar(Console.ReadLine());
             double c = 0;
+            double f = 0;
             while (esc == false)
             {
                 if (chr2 == '=')
                 {
                     if (chr == '+')
-                        c = a + b;
+                        f = a + b;
                     else if (chr == '-')
-                        c = a - b;
+                        f = a - b;
                     else if (chr == '*')
-                        c = a * b;
+                        f = a * b;
                     else if (chr == '/')
                     {
                         if (b == 0)
                             Console.WriteLine("Sıfıra Bölme İşlemi Tanımsızdır");
                         else
-                            c = a / b;
+                            f = a / b;
                     }
                     else
                         Console.WriteLine("Bu Makine Sadece 4 işlem yapabilmektedir");
-                    Console.Write(c);
+                    Console.Write(f);
                     esc = true;
                     Console.ReadKey();
 
